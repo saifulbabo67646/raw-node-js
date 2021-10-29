@@ -1,0 +1,21 @@
+{
+  "name": "raw-node",
+  "version": "1.0.0",
+  "description": "A raw node js project which built with node js core modules",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": "https://github.com/saifulbabo67646/raw-node-js",
+  "author": "MD Saiful Islam",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.14",
+    "prettier": "^2.4.1"
+  }
+}
